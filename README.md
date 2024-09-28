@@ -8,4 +8,4 @@
 
 ## Horizontal Rules
 
-<iframe src="Ithaca-map.html" height="500" width="500"></iframe>
+<iframe src="map.html" height="500" width="500"></iframe>
